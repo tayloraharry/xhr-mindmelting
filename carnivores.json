@@ -1,0 +1,11 @@
+{
+    "carnivores": [{
+        "animal": "Lion"
+    }, {
+        "animal": "Tiger"
+    }, {
+        "animal": "Wolf"
+    }, {
+        "animal": "Bear"
+    }]
+}
